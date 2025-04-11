@@ -1,0 +1,14 @@
+# Ignorar carpetas de dependencias
+node_modules/
+.env
+dist/
+build/
+
+# Archivos temporales
+*.log
+.DS_Store
+*.env
+
+# Carpetas específicas de sistemas operativos
+.idea/
+.vscode/
